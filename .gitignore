@@ -1,0 +1,11 @@
+# Ignore Binary and Build Folders
+Build_Release/
+bin/
+obj/
+*.exe
+*.dll
+*.pdb
+*.zip
+*.log
+.vs/
+*.user
